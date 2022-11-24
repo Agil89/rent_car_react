@@ -35,7 +35,6 @@ const Header = () => {
 
   return (
     <header className="header">
-      {/* ============ header top ============ */}
       <div className="header__top">
         <Container>
           <Row>
@@ -43,7 +42,7 @@ const Header = () => {
               <div className="header__top__left">
                 <span>Need Help?</span>
                 <span className="header__top__help">
-                  <i class="ri-phone-fill"></i> +1-202-555-0149
+                  <i class="ri-phone-fill"></i> +994 70 8278977
                 </span>
               </div>
             </Col>
@@ -64,7 +63,6 @@ const Header = () => {
       </div>
 
       
-      {/* ========== main navigation =========== */}
 
       <div className="main__navbar">
         <Container>
